@@ -23,10 +23,10 @@ The goal of the game is to click on randomly appearing meteors within a limited 
 - Python 3.10+  
 - `pygame` library for sound playback
 
-```bash
+##bash
 pip install pygame
 
-Files
+##Files
 game.py: Main game logic
 
 click.wav: Sound played when a meteor is clicked
@@ -37,7 +37,7 @@ uzay.gif: Space-themed background
 
 meteor.gif: Custom shape for the meteors
 
-License
+##License
 This project is for educational and portfolio purposes.  
 You are free to use, modify, and share it without any restrictions.
 
